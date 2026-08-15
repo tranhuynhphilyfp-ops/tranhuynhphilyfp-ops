@@ -55,5 +55,5 @@ LYFP creates browser games that are quick to enter, satisfying to control, and r
 For collaborations involving character animation, game-ready assets, HTML5 prototypes, small games, or creative production, use the contact route on the **[official LYFP links page](https://lyfpstudio.com/links/)**.
 
 <div align="center">
-  <sub>LYFP Games Studio · Quick Games. Big Fun.</sub>
+  <sub>LYFP Games Studio · Quick Games. Big Fun. · <a href="NOTICE.md">Brand notice</a></sub>
 </div>
