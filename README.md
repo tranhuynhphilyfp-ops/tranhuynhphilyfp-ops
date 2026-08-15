@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://lyfpstudio.com/">
-    <img src="assets/lyfp-logo.png" width="156" alt="LYFP Games Studio logo">
+    <img src="assets/lyfp-logo.png" width="112" alt="LYFP Games Studio logo">
   </a>
 
   <h1>LYFP Games Studio</h1>
@@ -8,10 +8,9 @@
   <p>Independent studio crafting polished HTML5 games, game-ready 2D assets, and practical production tools.</p>
 
   <p>
-    <a href="https://lyfpstudio.com/"><img alt="Visit LYFP Studio" src="https://img.shields.io/badge/LYFP_STUDIO-Visit-126BFF?style=for-the-badge"></a>
-    <a href="https://lyfpstudio.com/games/"><img alt="Play LYFP Games" src="https://img.shields.io/badge/PLAY_GAMES-Open-FFC928?style=for-the-badge&logoColor=111827"></a>
-    <a href="https://lyfpstudio.com/links/"><img alt="Official LYFP Links" src="https://img.shields.io/badge/OFFICIAL_LINKS-Connect-111827?style=for-the-badge"></a>
+    <a href="https://lyfpstudio.com/"><img alt="Explore LYFP Games Studio" src="https://img.shields.io/badge/EXPLORE_LYFP-Visit_the_Studio-126BFF?style=for-the-badge"></a>
   </p>
+  <p><strong><a href="https://lyfpstudio.com/games/">Play Games</a></strong> · <strong><a href="https://lyfpstudio.com/links/">Official Links</a></strong></p>
 </div>
 
 ---
@@ -20,19 +19,17 @@
 
 LYFP creates browser games that are quick to enter, satisfying to control, and resilient across desktop, mobile, and Telegram. The same production practice powers a growing library of animated characters, enemies, bosses, and reusable tools for game creators.
 
-| Browser games | Game-ready assets | Production tools |
-|---|---|---|
-| Responsive HTML5 experiences with clear controls and polished game feel. | Animation packs, atlases, controllers, references, and practical documentation. | Focused workflows for motion, UI, QA, packaging, and creative production. |
+- **Browser games** — responsive HTML5 experiences with clear controls and polished game feel.
+- **Game-ready assets** — animation packs, atlases, controllers, references, and practical documentation.
+- **Production tools** — focused workflows for motion, UI, QA, packaging, and creative production.
 
 ## Explore LYFP
 
-| Destination | What you will find |
-|---|---|
-| **[LYFP Games Studio](https://lyfpstudio.com/)** | Play Pichone Fly, explore releases, and discover studio services. |
-| **[LYFP Games](https://lyfpstudio.com/games/)** | Browser games and playable studio projects. |
-| **[Telegram Game Hub](https://t.me/lyfpgames_bot)** | Open the LYFP game collection directly in Telegram. |
-| **[Brainrot Lab](https://brainrotlab.xyz/)** | Experimental games, characters, and internet-culture projects. |
-| **[Official Links](https://lyfpstudio.com/links/)** | Every verified studio, creator, community, and contact channel. |
+- **[LYFP Games Studio](https://lyfpstudio.com/)** — play Pichone Fly, explore releases, and discover studio services.
+- **[LYFP Games](https://lyfpstudio.com/games/)** — browser games and playable studio projects.
+- **[Telegram Game Hub](https://t.me/lyfpgames_bot)** — open the LYFP game collection directly in Telegram.
+- **[Brainrot Lab](https://brainrotlab.xyz/)** — experimental games, characters, and internet-culture projects.
+- **[Official Links](https://lyfpstudio.com/links/)** — every verified studio, creator, community, and contact channel.
 
 ## Selected games
 
