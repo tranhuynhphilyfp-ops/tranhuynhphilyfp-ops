@@ -1,50 +1,62 @@
 <div align="center">
-  <a href="https://tranhuynhphilyfp-ops.github.io/game-hub/">
-    <img src="assets/lyfp-logo.png" width="164" alt="LYFP Games Studio logo">
+  <a href="https://lyfpstudio.com/">
+    <img src="assets/lyfp-logo.png" width="156" alt="LYFP Games Studio logo">
   </a>
 
   <h1>LYFP Games Studio</h1>
-  <p><strong>Quick Games. Big Fun.</strong></p>
-  <p>Independent HTML5 game studio creating fast, playful experiences for Telegram and the web.</p>
+  <p><strong>Games · Animation · Creative Production</strong></p>
+  <p>Independent studio crafting polished HTML5 games, game-ready 2D assets, and practical production tools.</p>
 
   <p>
-    <a href="https://tranhuynhphilyfp-ops.github.io/game-hub/"><img alt="Play LYFP Game Hub" src="https://img.shields.io/badge/PLAY-LYFP_GAME_HUB-FFC928?style=for-the-badge&logo=telegram&logoColor=111827"></a>
-    <a href="https://www.youtube.com/@LYFPGAMER"><img alt="Watch LYFP Gamer on YouTube" src="https://img.shields.io/badge/WATCH-LYFP_GAMER-FF0033?style=for-the-badge&logo=youtube&logoColor=white"></a>
+    <a href="https://lyfpstudio.com/"><img alt="Visit LYFP Studio" src="https://img.shields.io/badge/LYFP_STUDIO-Visit-126BFF?style=for-the-badge"></a>
+    <a href="https://lyfpstudio.com/games/"><img alt="Play LYFP Games" src="https://img.shields.io/badge/PLAY_GAMES-Open-FFC928?style=for-the-badge&logoColor=111827"></a>
+    <a href="https://lyfpstudio.com/links/"><img alt="Official LYFP Links" src="https://img.shields.io/badge/OFFICIAL_LINKS-Connect-111827?style=for-the-badge"></a>
   </p>
 </div>
 
 ---
 
-## Play instantly
+## Build for play. Package for production.
 
-The **LYFP Game Hub** brings our games together in one fast, mobile-friendly home. Open it in Telegram or a browser, pick a game, and start playing.
+LYFP creates browser games that are quick to enter, satisfying to control, and resilient across desktop, mobile, and Telegram. The same production practice powers a growing library of animated characters, enemies, bosses, and reusable tools for game creators.
 
-> **Offline-ready:** after the Hub and a game have loaded once, supported games can stay available when the connection drops.
-
-<div align="center">
-  <a href="https://tranhuynhphilyfp-ops.github.io/game-hub/"><strong>Open LYFP Game Hub →</strong></a>
-</div>
-
-## Games
-
-| Game | Genre | Experience |
+| Browser games | Game-ready assets | Production tools |
 |---|---|---|
-| **Pichone Fly** | Arcade | Tap, fly, dodge, and chase a new high score. |
-| **Boneca Run Run** | Endless runner | Find your rhythm and survive a fast desert run. |
-| **Brainrot 2048 Challenge** | Puzzle | Merge matching tiles, unlock characters, and climb the rankings. |
-| **Brainrot Bubble Merge** | Physics merge | Drop, match, and evolve bubbles into legendary forms. |
+| Responsive HTML5 experiences with clear controls and polished game feel. | Animation packs, atlases, controllers, references, and practical documentation. | Focused workflows for motion, UI, QA, packaging, and creative production. |
 
-## What we care about
+## Explore LYFP
 
-- Instant play with no complicated setup
-- Smooth controls across desktop and mobile
-- Telegram-first social play and leaderboards
-- Fast loading, offline resilience, and polished game feel
+| Destination | What you will find |
+|---|---|
+| **[LYFP Games Studio](https://lyfpstudio.com/)** | Play Pichone Fly, explore releases, and discover studio services. |
+| **[LYFP Games](https://lyfpstudio.com/games/)** | Browser games and playable studio projects. |
+| **[Telegram Game Hub](https://t.me/lyfpgames_bot)** | Open the LYFP game collection directly in Telegram. |
+| **[Brainrot Lab](https://brainrotlab.xyz/)** | Experimental games, characters, and internet-culture projects. |
+| **[Official Links](https://lyfpstudio.com/links/)** | Every verified studio, creator, community, and contact channel. |
 
-## Follow the studio
+## Selected games
 
-New games, gameplay moments, and studio updates are shared on **[LYFP GAMER on YouTube](https://www.youtube.com/@LYFPGAMER)**.
+- **Pichone Fly** — one-tap arcade flight with hazards, effects, and responsive controls.
+- **Boneca Run Run** — a fast HTML5 endless runner built around rhythm and survival.
+- **Brainrot Bubble Merge** — a relaxing physics merge game designed for browser portals.
+- **Bombardino Arena** — a tactical survival shooter with waves, bosses, and evolving combat.
+
+## Studio toolkit
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827">
+  <img alt="Canvas" src="https://img.shields.io/badge/Canvas-111827?style=flat-square">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white">
+</p>
+
+## Connect with the studio
+
+**[YouTube](https://www.youtube.com/@lyfpgames)** · **[Facebook](https://www.facebook.com/lyfpgames)** · **[Telegram community](https://t.me/lyfpgames)** · **[All official channels](https://lyfpstudio.com/links/)**
+
+For collaborations involving character animation, game-ready assets, HTML5 prototypes, small games, or creative production, use the contact route on the **[official LYFP links page](https://lyfpstudio.com/links/)**.
 
 <div align="center">
-  <sub>Built by LYFP Games Studio · Quick Games. Big Fun.</sub>
+  <sub>LYFP Games Studio · Quick Games. Big Fun.</sub>
 </div>
